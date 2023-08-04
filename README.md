@@ -27,9 +27,9 @@ internamente usando las variables:
 Se instalan además un led de control que parpadea para saber que el sistema está
 funcionando correctamente y un interruptor de control de corriente.
 
-[Esquema del montaje a falta de soldar](./esquema-sin-soldar.jpg)
+![Esquema del montaje a falta de soldar](./esquema-sin-soldar.jpg)
 
-[Bomba de 9v](./bomba-9v.jpg)
+![Bomba de 9v](./bomba-9v.jpg)
 
 
 ## Enlaces:
